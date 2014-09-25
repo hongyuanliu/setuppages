@@ -1,0 +1,15 @@
+Package: openyoudao
+Priority: optional
+Section: net
+Installed-Size: 882
+Maintainer: fly100 <xdlailai@gmail.com>
+Architecture: i386
+Version: 1.1-1
+Depends: python-xlib, python-webkit, python-lxml, python-beautifulsoup, xclip, inotify-tools, curl
+Filename: pool/main/o/openyoudao/openyoudao_1.1-1_i386.deb
+Size: 267376
+MD5sum: 6ca912ef04806dcd5653e5732671e147
+SHA1: 6a1ebaf2a65a82850ecb2889f07f19d85dfa65b4
+Description: Openyoudao是有道字典在linux下的客户端
+ test
+
